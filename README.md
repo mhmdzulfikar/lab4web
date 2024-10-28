@@ -15,7 +15,8 @@
     </body>
     </html>
 
-![image](https://github.com/user-attachments/assets/587a8bcb-e59d-4e8f-97cc-cc75b547b202)
+![image](https://github.com/user-attachments/assets/0ef8fdfc-c4dc-4874-bb1d-cbd2dcf65b46)
+
 
 
 <h1>2. membuat box element</h1>
