@@ -384,3 +384,228 @@ tambahka css
     }
 
 ![Screenshot 2024-10-28 092412](https://github.com/user-attachments/assets/05020bc5-f570-4d16-9b0b-36779042f714)
+
+<h2>Portfolio </h2>
+<h2>Pertanyaan dan Tugas
+1. Tambahkan Layout untuk menu About
+=> buat single layout yang berisi deskripsi, portfolio, dll
+2. Tambahkan layout untuk menu Contact
+=> yang berisi form isian: nama, email, message, dll</h2>
+
+    <!DOCTYPE html>
+    <html lang="id">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <title>Portfolio Muhamad Zulfikar</title>
+        <style>
+            body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    
+    header {
+        background-color: #071172;
+        color: white;
+        padding: 10px 20px;
+        text-align: right;
+    }
+    
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    
+    nav ul li {
+        display: inline;
+        margin: 0 15px;
+    }
+    
+    nav a {
+        color: white;
+        text-decoration: none;
+    }
+    
+    .container {
+        display: flex;
+        min-height: 100vh;
+    }
+    
+    .sidebar {
+        width: 30%;
+        padding: 20px;
+        background-color: #f4f4f4;
+        text-align: center;
+    }
+    
+    .sidebar img {
+        max-width: 100%;
+        border-radius: 50%;
+    }
+    
+    .main-content {
+        width: 70%;
+        padding: 40px;
+        background-color: #ffffff;
+    }
+    
+    h1, h2, h3, h4 {
+        margin: 10px 0;
+    }
+    
+    .about {
+        margin-bottom: 40px;
+    }
+    
+    .contact form {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .contact label {
+        margin-top: 10px;
+    }
+    
+    .contact input, .contact textarea {
+        padding: 10px;
+        margin-top: 5px;
+    }
+    
+    .contact button {
+        margin-top: 20px;
+        padding: 10px;
+        background-color: #071172;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+    .portfolio {
+        display: flex;
+        flex-direction: column;
+        gap: 20px; /* Jarak antar tabel */
+    }
+    
+    table {
+        width: 100%; /* Lebar penuh */
+        border-collapse: collapse; /* Menghapus jarak antar border */
+        background-color: #f9f9f9; /* Warna latar belakang */
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Bayangan kotak */
+    }
+    
+    th {
+        background-color: #071172; /* Warna latar belakang header */
+        color: white;
+        padding: 10px; /* Padding untuk header */
+        text-align: left;
+    }
+    
+    td {
+        padding: 10px; /* Padding untuk sel */
+        border-top: 1px solid #ddd; /* Garis pemisah antar baris */
+    }
+    
+    
+    footer {
+        text-align: center;
+        padding: 20px 0;
+        background-color:#071172;
+        color: #fff;
+    }
+    
+        </style>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+    
+        <div class="container">
+            <aside class="sidebar">
+                <img src="catprofile.jpg" alt="Foto Muhamad Zulfikar">
+            </aside>
+            <main class="main-content">
+                <h1>Muhamad Zulfikar</h1>
+                <h2>Mahasiswa Universitas Pelita Bangsa</h2>
+    
+                <section id="about" class="about">
+                    <h3>Tentang Saya</h3>
+                    <p>Saya adalah mahasiswa yang memiliki ketertarikan di bidang desain grafis dan pengembangan web. Selalu berusaha untuk belajar dan berinovasi dalam setiap proyek yang saya kerjakan.</p>
+                    <h4>Portfolio</h4>
+                    <p>Berikut adalah beberapa proyek yang pernah saya kerjakan:</p>
+                    
+                </section>
+    
+                <section id="about" class="about">
+                    <h3>Tentang Saya</h3>
+                    <p>Saya adalah mahasiswa yang memiliki ketertarikan di bidang desain grafis dan pengembangan web. Selalu berusaha untuk belajar dan berinovasi dalam setiap proyek yang saya kerjakan.</p>
+                    <h4>Portfolio</h4>
+                    
+                    <div class="portfolio">
+                        <table>
+                            <tr>
+                                <th>Proyek 1: Desain Website</th>
+                            </tr>
+                            <tr>
+                                <td>Deskripsi: Membangun website responsif untuk klien dengan fokus pada UI/UX.</td>
+                                <td><a href="#" class="btn btn-default">View detail</a></td>
+                            </tr>
+                            
+                        </table>
+                        
+                        <table>
+                            <tr>
+                                <th>Proyek 2: Aplikasi Mobile</th>
+                            </tr>
+                            <tr>
+                                <td>Deskripsi: Mengembangkan aplikasi mobile untuk Android dengan fitur menarik.</td>
+                                <td><a href="#" class="btn btn-default">View detail</a></td>
+                            </tr>
+                        </table>
+                        
+                        <table>
+                            <tr>
+                                <th>Proyek 3: Branding dan Identitas Visual</th>
+                            </tr>
+                            <tr>
+                                <td>Deskripsi: Membuat logo dan materi branding untuk berbagai klien.</td>
+                                <td><a href="#" class="btn btn-default">View detail</a></td>
+                            </tr>
+                        </table>
+                    </div>
+                </section>
+                
+                <section id="contact" class="contact">
+                    <h3>Contact</h3>
+                    <form>
+                        <label for="name">Nama:</label>
+                        <input type="text" id="name" name="name" required>
+    
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required>
+    
+                        <label for="message">Pesan:</label>
+                        <textarea id="message" name="message" required></textarea>
+    
+                        <button type="submit">Kirim</button>
+                    </form>
+                </section>
+            </main>
+        </div>
+    
+        <footer>
+            <p>&copy; 2024 Muhamad Zulfikar. All rights reserved.</p>
+        </footer>
+    </body>
+    </html>
+
+![Screenshot 2024-10-28 124928](https://github.com/user-attachments/assets/49517224-21ee-4677-b7e2-65cf511a1e29)
+
+![Screenshot 2024-10-28 125016](https://github.com/user-attachments/assets/0871c898-8154-4cea-a0b5-5a5d37e76bc2)
