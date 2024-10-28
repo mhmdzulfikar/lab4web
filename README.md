@@ -67,8 +67,10 @@ mengaturnya.
     clear: left;
     float: none;
     }
+    
+![Screenshot 2024-10-28 085910](https://github.com/user-attachments/assets/1477a34d-3b31-4f82-b678-ae39614a4f32)
 
-![image](https://github.com/user-attachments/assets/37199344-9650-4ae5-a7e9-0a729af52d53)
+
 
 menambahkan div 4 atau kotak keempat dengan warna biru lalu diatur clear pada property 
 untuk menghentikan efek float dari elemen sebelumnya, kemudian kotak tersebut muncul
@@ -110,7 +112,8 @@ mendesain halaman
                 <p>&copy; 2021 - Universitas Pelita Bangsa</p>
             </footer>   
 
-![image](https://github.com/user-attachments/assets/2000f4dd-f616-4fe8-9de0-83a49267f798)
+![Screenshot 2024-10-28 090530](https://github.com/user-attachments/assets/5ec83b16-ce7d-468e-a174-7c7f11034528)
+
 
 kemudian tambahkan kode css untuk membuat layoutnya
 
@@ -144,7 +147,8 @@ kemudian tambahkan kode css untuk membuat layoutnya
         color: #b5b5b5;
     }
 
-![image](https://github.com/user-attachments/assets/faa9cd48-85ff-46e1-a497-a97f74bf4866)
+
+![Screenshot 2024-10-28 091737](https://github.com/user-attachments/assets/40b0d60c-fd30-4c3d-ae0f-c91ce364de6d)
 
 <h1>membuat navigasi</h1>
 
@@ -166,7 +170,8 @@ kemudian tambahkan kode css untuk membuat layoutnya
         background-color: #2b83ea;
     }
 
-![image](https://github.com/user-attachments/assets/f60fe218-e634-4aed-a231-cd4d391a95f7)
+![Screenshot 2024-10-28 092234](https://github.com/user-attachments/assets/f5c2d0a1-4e77-4dcd-b929-a2c0f0cdbe3a)
+
 
 <h1>membuat hero panel</h1>
 
@@ -196,7 +201,8 @@ kemudian tambahkan kode css untuk membuat layoutnya
         line-height: 25px;
     }
 
-![image](https://github.com/user-attachments/assets/e25eeb8b-d83a-4638-82f5-5c9b26ed19ae)
+
+![Screenshot 2024-10-28 092412](https://github.com/user-attachments/assets/d1cbedb2-7598-4b98-90b9-81ff90598a83)
 
 
 <h1>mengatur layout main dan sidebar</h1>
