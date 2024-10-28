@@ -1,7 +1,10 @@
-![Screenshot 2024-10-28 090530](https://github.com/user-attachments/assets/001bc940-c034-458b-86d7-80d910e2a6ed)
-![Screenshot 2024-10-28 085910](https://github.com/user-attachments/assets/c85e5356-d668-4b80-bbdf-2d814b03cd38)
-![Screenshot 2024-10-28 083907](https://github.com/user-attachments/assets/5e3adb2f-b8fa-48fd-a3e4-8c4ff536327d)
-![Screenshot 2024-10-28 083851](https://github.com/user-attachments/assets/a3572560-1294-42b0-82b7-5c2683f7258c)
-![Screenshot 2024-10-28 092412](https://github.com/user-attachments/assets/41ccfd13-ea65-4ff3-af2c-90319d170428)
-![Screenshot 2024-10-28 092234](https://github.com/user-attachments/assets/85f27b68-fe8c-4375-9e7d-1ef31c82e159)
-![Screenshot 2024-10-28 091737](https://github.com/user-attachments/assets/644ac901-6b52-4486-8468-f3ed12796597)
+    1. <header>
+            <h1>Box Element</h1>
+        </header>
+        <section>
+            <div class="div1">Div 1</div>
+            <div class="div2">Div 2</div>
+            <div class="div3">Div 3</div>
+        </section>
+        
+![Screenshot 2024-10-28 083851](https://github.com/user-attachments/assets/6def4b84-d988-44be-91bb-20e63b090e84)
