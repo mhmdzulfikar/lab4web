@@ -44,7 +44,8 @@
         }
     </style>
 
-![image](https://github.com/user-attachments/assets/fd81fda8-ffe5-459f-93a4-8f5754ea8d24)
+![Screenshot 2024-10-28 083851](https://github.com/user-attachments/assets/add54b8c-33c6-4d11-9d26-ae6ad74c6097)
+
 
 tiga kotak div berwarna merah,kuning dan hijau diatur secara sejajar horizontal
 menggunakan properti float
@@ -68,7 +69,8 @@ mengaturnya.
     float: none;
     }
     
-![Screenshot 2024-10-28 085910](https://github.com/user-attachments/assets/1477a34d-3b31-4f82-b678-ae39614a4f32)
+
+![Screenshot 2024-10-28 083907](https://github.com/user-attachments/assets/e797c823-6a58-4c5f-89db-9a26efae934e)
 
 
 
