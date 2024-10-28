@@ -382,3 +382,5 @@ tambahka css
     .entry .right-img {
     float: right;
     }
+
+![Screenshot 2024-10-28 092412](https://github.com/user-attachments/assets/05020bc5-f570-4d16-9b0b-36779042f714)
