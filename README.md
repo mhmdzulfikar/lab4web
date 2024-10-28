@@ -1,1 +1,7 @@
-# lab4web
+![Screenshot 2024-10-28 083907](https://github.com/user-attachments/assets/d8499fde-95b4-4d8e-bd08-9a20f6df4c9d)
+![Screenshot 2024-10-28 083851](https://github.com/user-attachments/assets/b7eec99f-6e7d-4682-9ef1-5187e9ebf63d)
+![Screenshot 2024-10-28 092412](https://github.com/user-attachments/assets/5fb866aa-109f-4911-87c1-202365624346)
+![Screenshot 2024-10-28 092234](https://github.com/user-attachments/assets/d9276b68-88b1-46cd-a6ca-15e92218568b)
+![Screenshot 2024-10-28 091737](https://github.com/user-attachments/assets/780fb85e-62e2-456f-af6b-b3eeac6f670e)
+![Screenshot 2024-10-28 090530](https://github.com/user-attachments/assets/575997a9-7bff-4f58-bfa9-04501f65bbfb)
+![Screenshot 2024-10-28 085910](https://github.com/user-attachments/assets/d1a1715b-d2b8-4311-9eb7-d6c85f6e648d)
